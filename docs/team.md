@@ -9,7 +9,7 @@ Simplanner
    Role: Team Coordinator
 
 2. Name: Adam Kaniecki
-   Student ID: 
+   Student ID: 72181
    Role: Repository and Integration Owner
 
 3. Name: Marek Mikusek
