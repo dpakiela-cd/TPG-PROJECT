@@ -13,7 +13,7 @@ Simplanner
    Role: Repository and Integration Owner
 
 3. Name: Marek Mikusek
-   Student ID: 
+   Student ID: 71476
    Role: Quality and Knowledge Owner
 
 ## Project Description
